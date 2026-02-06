@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+    <html lang="pt-br">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Classificação de Animes</title>
+    </head>
+    <body>
+        <h1><b>Meus Animes Preferidos de todos os Tempos!!!</b></h1>
+
+        <h2><b>3 Melhores Animes</b></h2>
+        
+        <hr>
+        
+        <h3><b>1) Death Note</b></h3>
+        <p1>A história centra-se em Light Yagami, um estudante do ensino médio que descobre um caderno sobrenatural chamado Death Note.</p1>
+
+        <h3><b>2) FullMetal Alchemist</b></h3>
+        <p1>Fullmetal Alchemist é um mangá shonen escrito e ilustrado por Hiromu Arakawa.</p1>
+        
+        <h3><b>3) One Piece</b></h3>
+        <p1>Uma das séries shounem mais icônicas, conta a história de Monkey D Luffy e sua busca pelo tesouro One Piece.</p1>
+    </body>
+</html>
